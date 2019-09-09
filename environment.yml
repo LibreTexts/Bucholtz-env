@@ -1,4 +1,3 @@
-name: OLCC2019
 channels:
   - rdkit
   - mordred-descriptor
