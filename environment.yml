@@ -1,6 +1,7 @@
 channels:
   - rdkit
   - mordred-descriptor
+  - samoturk
   - conda-forge
   - defaults
 dependencies:
@@ -70,6 +71,7 @@ dependencies:
   - prompt_toolkit=2.0.9
   - py-boost=1.67.0
   - pygments=2.4.2
+  - pymol==2.3.3
   - pyparsing=2.4.0
   - pyqt=5.9.2
   - pyrsistent=0.14.11
@@ -117,7 +119,6 @@ dependencies:
     - grequests==0.2.0
     - idna==2.8
     - pycparser==2.19
-    - pymol==2.4.0a0
     - pymol-launcher==2.1
     - pyopenssl==19.0.0
     - pypdb==1.200
