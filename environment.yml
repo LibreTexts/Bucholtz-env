@@ -1,7 +1,7 @@
 channels:
   - rdkit
   - mordred-descriptor
-  - samoturk
+  - schrodinger 
   - conda-forge
   - defaults
 dependencies:
