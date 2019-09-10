@@ -91,7 +91,7 @@ dependencies:
   - statsmodels=0.10.0
   - terminado=0.8.2
   - testpath=0.4.2
-  - tk=8.6.8
+  - tk=8.6.9
   - tornado=6.0.3
   - tqdm=4.32.1
   - traitlets=4.3.2
