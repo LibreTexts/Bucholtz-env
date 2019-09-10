@@ -118,8 +118,8 @@ dependencies:
     - greenlet==0.4.15
     - grequests==0.2.0
     - idna==2.8
+    - ipymol=0.5
     - pycparser==2.19
-    - pymol-launcher==2.1
     - pyopenssl==19.0.0
     - pypdb==1.200
     - requests==2.22.0
