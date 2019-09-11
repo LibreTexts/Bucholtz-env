@@ -1,0 +1,8 @@
+libglew-dev
+freeglut3-dev 
+libpng-dev 
+libfreetype6-dev 
+libxml2-dev
+libmsgpack-dev 
+python-pyqt5.qtopengl 
+libglm-dev
