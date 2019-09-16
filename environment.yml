@@ -1,7 +1,7 @@
 channels:
   - rdkit
   - mordred-descriptor
-  - schrodinger 
+  - samoturk 
   - conda-forge
   - defaults
 dependencies:
@@ -118,6 +118,8 @@ dependencies:
     - greenlet==0.4.15
     - grequests==0.2.0
     - idna==2.8
+    # Installs ipymol from the repository directly
+    - "--editable=git+https://github.com/cxhernandez/ipymol.git@2a30d6ec1588434e6f0f72a1d572444f89ff535b"
     - ipymol==0.5
     - pycparser==2.19
     - pyopenssl==19.0.0
